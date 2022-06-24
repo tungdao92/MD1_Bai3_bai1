@@ -2,51 +2,45 @@
 <head>
     <meta charset="UTF-8">
     <title>$Title$</title>
+    <style>
+        .mau{
+            width: 400px;
+            background:orangered;
+            text-align: center;
+            font-family: "Arial Black";
+        }
+    </style>
 </head>
 <body>
 <form>
-    <h1>SỞ THÍCH CỦA BẠN</h1>
     <table>
         <tr>
-            <td>
-                Họ và Tên
-            </td>
-            <td>
-                <input type="text"name="yourname">
-            </td>
+            <td colspan="4"><h1 class="mau">SỞ THÍCH CỦA BẠN</h1></td>
         </tr>
         <tr>
-            <td>
-                Email
-            </td>
-            <td>
-                <input type="text"name="Email";>
-            </td>
-        </tr>
-    </table>
-    <table>
-        <tr>
-            <td>
-                Sở thích
-            </td>
-        </tr>
-
-
-        <tr>
-            <td></td>
-            <td><input type="checkbox"name="hobby">Thể Thao</td>
-            <td><input type="checkbox"name="hobby">Âm Nhạc</td>
-            <td><input type="checkbox"name="hobby">Đọc Sách</td>
+            <td>Họ và Tên</td>
+            <td colspan="3"><input type="text"name="yourname"></td>
         </tr>
         <tr>
-            <td></td>
-            <td><input type="checkbox"name="hobby">Lướt Web</td>
-            <td><input type="checkbox"name="hobby">Chơi Game</td>
-            <td><input type="checkbox"name="hobby">Nghe Nhạc</td>
+            <td>Email</td>
+            <td colspan="2"><input type="text"name="Email";></td>
         </tr>
         <tr>
-            <td></td>
-            <td><input type="checkbox"name="hobby">Du Lịch</td>
+            <td>Sở thích</td>
+        </tr>
+        <tr>
+            <td rowspan="3"></td>
+            <td><input type="checkbox"name="hobby"value="Thể Thao">Thể Thao</td>
+            <td><input type="checkbox"name="hobby"value="Âm Nhạc">Âm Nhạc</td>
+            <td><input type="checkbox"name="hobby"value="Đọc Sách">Đọc Sách</td>
+        </tr>
+        <tr>
+            <td><input type="checkbox"name="hobby"value="Lướt Web">Lướt Web</td>
+            <td><input type="checkbox"name="hobby"Value="Chơi Game">Chơi Game</td>
+            <td><input type="checkbox"name="hobby"Value="Nghe Nhạc">Nghe Nhạc</td>
+        </tr>
+        <tr>
+            <td><input type="checkbox"name="hobby"value="Du Lịch">Du Lịch</td>
         </tr>
         <tr>
             <td></td>
