@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e304e51-6056-44c0-8995-3f64a3b3e87a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/HTML/img",
+    "last_opened_file_path": "D:/HTML",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,7 +67,8 @@
       <updated>1655969283305</updated>
       <workItem from="1655969284490" duration="20101000" />
       <workItem from="1656032366247" duration="475000" />
-      <workItem from="1656032867193" duration="11940000" />
+      <workItem from="1656032867193" duration="12092000" />
+      <workItem from="1656052722945" duration="936000" />
     </task>
     <servers />
   </component>
